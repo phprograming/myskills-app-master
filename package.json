@@ -12,6 +12,7 @@
   "dependencies": {
     "react": "17.0.1",
     "react-native": "0.64.0",
+    "react-native-code-push": "^7.0.4",
     "react-native-splash-screen": "^3.3.0"
   },
   "devDependencies": {
